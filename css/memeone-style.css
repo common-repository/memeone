@@ -1,0 +1,69 @@
+.memeone_canvas_displayed {
+	position: inherit;
+	display: block;
+}
+
+#memeone_background_picture {
+	width: inherit !important;
+}
+
+#memeone_canvas {
+	position: absolute;
+	max-height: 600px;
+	max-width: 600px;
+	display: none;
+}
+
+.memeone_background {
+	max-width: 250px !important;
+	vertical-align: top !important;
+	padding: 15px !important;
+	box-shadow: none !important;
+	background-color: inherit !important;
+	border: none !important;
+	border-radius: inherit !important;
+}
+
+#memeone_font_loader {
+	font-family: MemeoneFont !important;
+	visibility: hidden !important;
+	position: absolute !important;
+}
+
+#memeone_form_wrapper {
+	display: block;
+}
+
+#memeone_loading_icon, #memeone_error_message_area, #memeone_generator_form {
+	display: none;
+}
+
+#memeone_generator_form_displayed {
+	display: block;
+}
+
+#memeone_loading_icon {
+	max-width: 16px;
+}
+
+.memeone_meme {
+	border-radius: 0px;
+	border-style: none;
+	width: inherit !important;
+}
+
+.memeone_input_wrapper {
+	margin-bottom: 1em;
+}
+
+.memeone_top_input_label {
+	width: 20% !important;
+	display: inline-block !important;
+	vertical-align: middle !important;
+}
+
+.memeone_bottom_input_label {
+	width: 20% !important;
+	display: inline-block !important;
+	vertical-align: middle !important;
+}
